@@ -2,7 +2,7 @@
 title: "Swifty File Reading and Writing"
 layout: post
 date: 2018-4-20
-image: /assets/images/profile.jpg
+image: /assets/images/profile2.jpg
 headerImage: false
 tag:
 - iOS
