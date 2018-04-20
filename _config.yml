@@ -3,7 +3,7 @@ name: Jason Zurita
 bio: 'just a curious tinkerer'
 
 # twitter summary info
-description: A blog about technology and related stuff
+description: A blog about technology & related stuff
 
 # if it's an external image, update below for true
 # better with square images
@@ -17,7 +17,7 @@ resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 # your site url: http://USERNAME.github.io
-url: https://jasonzurita.com
+url: http://jasonzurita.com
 
 permalink: /:title/
 
