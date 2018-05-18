@@ -205,5 +205,7 @@ As seen in the examples, reaching for nested `if statement`s is usually a tip (a
 
 Also, there are more examples than this (like using implicitly unwrapped optionals or force unwrapping), but the general idea that we should think through why we are reaching for an optional. Taking the easy way out by making something an optional when it doesn't really need to be can lead to a lot of problems down the line. Swift is great in that it forces us to address the existence of an optional entity, but let's not use that as a crutch to write brittle code.
 
+A good additional related read on [Enums And Optionals](http://khanlou.com/2018/04/enums-and-optionals/)
+
 
 Feel free to reach out, I would appreciate any feedback and additional thoughts!
