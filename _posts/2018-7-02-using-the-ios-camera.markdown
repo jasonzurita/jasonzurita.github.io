@@ -1,5 +1,5 @@
 ---
-title: "The iOS Camera - A surface dive into a deep topic"
+title: "iOS Camera - A surface dive into a deep topic"
 layout: post
 date: 2018-7-02
 image: /assets/images/profile2.jpg
