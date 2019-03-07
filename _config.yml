@@ -3,7 +3,7 @@ name: Jason Zurita
 bio: 'jason.pass = butter'
 
 # twitter summary info
-description: A blog about technology & related stuff
+description: A blog about software development
 
 # if it's an external image, update below for true
 # better with square images
@@ -18,6 +18,9 @@ resume-url: https://google.com/?q=my+resume
 
 # your site url: http://USERNAME.github.io
 url: http://jasonzurita.com
+
+# Feed details
+feed_items: 10
 
 permalink: /:title/
 
