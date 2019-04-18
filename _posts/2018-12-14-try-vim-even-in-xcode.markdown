@@ -76,7 +76,7 @@ _If you have done this before, you can skip down to #7_.
    ![create_certificate](/assets/images/posts/try_vim/create_certificate.png)
 1. Press _Create_.
 1. Assuming Xcode is in your _Application folder_, run this in terminal to re-sign Xcode:
-   + `sudo codesign -f -s XcodeSigner /Applications/Xcode.app`.
+   + `sudo codesign -f -s XcodeSigner /Applications/Xcode.app`
 1. Be patient as the code signing will take some time.
 
 #### Step B: Integrate vim into Xcode
