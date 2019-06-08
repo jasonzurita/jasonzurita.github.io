@@ -119,8 +119,8 @@ let package = Package(
     // 3
     dependencies: [
         .package(url: "https://github.com/tonisuter/aws-lambda-swift.git", .branch("master")),
-        .package(url: "https://github.com/pointfreeco/swift-html.git", from: "0.2.0"),
-        .package(url: "https://github.com/pointfreeco/swift-web.git", .branch("master")),
+        .package(url: "https://github.com/pointfreeco/swift-html.git", .exact("0.2.1")),
+        .package(url: "https://github.com/pointfreeco/swift-web.git", .revision("2c3d440")),
     ],
     // 4
     targets: [
