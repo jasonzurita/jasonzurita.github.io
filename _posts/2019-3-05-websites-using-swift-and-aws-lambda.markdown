@@ -317,7 +317,7 @@ Last but not least, let's breakdown the `Swift-AWS-Lambda-Website` target.
   + `cd ~/Desktop/Swift-AWS-Lambda-Website/Sources/Swift-AWS-Lambda-Website`
     + _this directory should have ready been created for you when initially running `swift package init`_
 - If you haven't already, delete the auto-generated _Swift_AWS_Lambda_Website.swift_ to have a blank start.
-  + rm _Swift_AWS_Lambda_Website.swift_
+  + `rm Swift_AWS_Lambda_Website.swift`
 - Make a file named _main.swift_ with the below code.
   + Copy the below code, then
   + `pbpaste > main.swift`
