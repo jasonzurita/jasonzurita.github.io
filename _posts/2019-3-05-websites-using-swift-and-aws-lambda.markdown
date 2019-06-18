@@ -97,7 +97,7 @@ The below source code [is available on Github](https://github.com/jasonzurita/Sw
 
     ![New Swift Package Folder Structure](/assets/images/posts/swift_aws_lambda_website/swift-package-init.png)
 
-  + Feel free to delete the `Tests` directory and everything inside of the `Swift-AWS-Lambda-Website` directory. We don't need them for this project.
+  + Feel free to delete the `Tests` directory and everything inside of the `Sources/Swift-AWS-Lambda-Website` directory. We don't need them for this project.
 - Open your _Package.swift_ for editing.
   + I use _vim_, but you can use any text editor of your choosing. If you want a little more insight into why I use _vim_, I break it down in [this blog post](/try-vim-even-in-xcode).
 - Edit the _Package.swift_ file to match the following:
