@@ -103,6 +103,10 @@ _If you have done this before, you can skip down to #7_.
    + `defaults delete com.apple.dt.Xcode DVTPlugInManagerNonApplePlugIns-Xcode-X.X`.
      + Where _X.X_ is your Xcode version.
    
+## More advanced tip
+- If you have a code formatting tool that you like to use (e.g., Swift - [SwiftFormat](https://github.com/nicklockwood/SwiftFormat), Python - [Black](https://github.com/python/black)), you can easily format the code in your current buffer (the file you have open in vim) by doing:
+  + `:%!SwiftFormat`
+  + Here is a [tweet showing this in action using SwiftFormat](https://twitter.com/jasonalexzurita/status/1071048197550813184)
 
 ---
 
