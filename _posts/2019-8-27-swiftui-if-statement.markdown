@@ -163,6 +163,8 @@ struct FeatureView: View {
 }
 ```
 
+- As [Majid pointed out on on Twitter](https://twitter.com/mecid/status/1166384474445221890), you can also leverage `map` on optionals instead of `if let`.
+
 ---
 
 # Thoughts
