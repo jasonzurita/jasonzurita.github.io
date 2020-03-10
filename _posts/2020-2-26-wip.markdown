@@ -1,0 +1,37 @@
+---
+title: "Swift Development Using Vim"
+layout: post
+date: 2020-2-27
+image: /assets/images/posts/git-lfs/logo.png
+headerImage: true
+tag:
+- Vim
+- Swift
+- LSP
+- Language Server Protocol
+star: false 
+category: blog
+author: jasonzurita 
+description: Swift Development Using Vim
+
+---
+
+# Summary
+
+
+---
+
+
+{: #initial-git-lfs-setup}
+# Getting Started with Git Large File Storage (LFS)
+
+
+---
+
+# Considerations
+
+---
+
+Thank you for reading!
+
+Feel free to reach out on [Twitter](https://twitter.com/jasonalexzurita) — cheers!
