@@ -36,7 +36,7 @@ The below steps uncover a bit of Xcode _dark magic_ to create a new custom file 
   **Note: Change the name `Custom\ File` to whatever you want to name your template.**
   ```
 ditto \
-/Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/File\ Templates/Source/Swift\ File.xctemplate \
+/Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/File\ Templates/MultiPlatform/Source/Swift\ File.xctemplate \
 ~/Library/Developer/Xcode/Templates/File\ Templates/Source/Custom\ File.xctemplate
 ```
   + A quick note about the files that were copied over for your new custom template
