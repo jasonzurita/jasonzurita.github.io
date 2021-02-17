@@ -57,7 +57,6 @@ ditto \
 ---
 
 If you want to learn more, check out these related resources:
-- [Fixing the file header](https://learning-programmer.com/2018/04/24/fixing-the-file-header/)
 - [Changing Xcode Header Comment](https://useyourloaf.com/blog/changing-xcode-header-comment/)
 - [Create Xcode Templates](https://medium.com/overapp-ios/create-xcode-templates-c968d4b43f7b)
 
