@@ -16,6 +16,8 @@ author: jasonzurita
 description: Automated testing for watchOS Apps
 ---
 
+<sub>Update (2.18.21): With the [upcoming update to Xcode (12.5)](https://developer.apple.com/documentation/xcode-release-notes/xcode-12_5-beta-release-notes), Xcode will support XCTest unit and UI tests for watchOS! Even though, this post includes some helpful tips on structuring your code/tests and enabling tested code sharing for other targets, including extension that still don't support tests out of the box.</sub>
+
 # Summary
 
 When [Apple Watch only apps](https://developer.apple.com/documentation/watchkit/creating_independent_watchos_apps/) were announced, I was excited and immediately jumped to create a standalone Apple Watch app! Even though I enjoy working on my watch apps, the development and developer experience lacks — almost as if support for independent watch apps was a rushed thought. Here are just some of the things that stood out to me (some of which I [filed a radar](https://twitter.com/jasonalexzurita/status/1306617636185427968?s=20) for):
