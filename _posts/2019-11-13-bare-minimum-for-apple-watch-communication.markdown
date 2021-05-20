@@ -16,6 +16,9 @@ description: Bare Minimum for Apple Watch Communication
 ---
 
 # Summary
+
+<sub>Last updated on 5.20.2021</sub>
+
 When recently starting to add an Apple Watch companion app to an existing iOS app, I wanted to get communication working between the phone and watch as fast as possible since the rest of the Apple Watch app's functionality depended on the inter-app communication.
 
 Like other critical path features, this key part of the implementation needed to be assessed for strengths and weaknesses at the beginning, or the rest of the Watch app would be at risk of being fundamentally flawed — potentially lots of wasted time.
@@ -54,6 +57,7 @@ final class ReceivingEntity: NSObject {
             session.activate()
         }
     }
+}
 
 // 3
 extension ReceivingEntity: WCSessionDelegate {
