@@ -1,8 +1,8 @@
 ---
-title: "Linting vs Formatting: A Swift Guide (Part 1)"
+title: "Linting vs Formatting: A Swift Guide — Part 1"
 layout: post
 date: 2021-6-25
-image: /assets/images/posts/linting-vs-formatting-logo.png
+image: /assets/images/posts/linting-vs-formatting/logo.png
 headerImage: true
 tag:
 - Swift
