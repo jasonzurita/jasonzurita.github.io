@@ -8,6 +8,7 @@ layout: page
 
 | Date | Title | Type | Event | Location | Resources<br><sub>e.g., slides, code</sub> | Recording<br><sub>e.g., video, audio</sub> |
 |-|-|-|-|-|-|
+| March 24, 2022 | Snapshot Testing in Swift | Workshop | [try! Swift World](https://www.tryswift.co/world/) | Online | [x](https://github.com/jasonzurita/talks/tree/master/Snapshot%20Testing%20in%20Swift%20Workshop) | - |
 | April 22, 2021 | Linting and Formatting Your Code | Workshop | [try! Swift World](https://www.tryswift.co/world/) | Online | [x](https://github.com/jasonzurita/talks/tree/master/Swift%20Linting%20and%20Formatting%20Workshop) | - |
 | June 5, 2020 | Making a DSL in Swift | Workshop | [try! Swift World](https://www.tryswift.co/world/) | Online | [x](https://github.com/jasonzurita/talks/tree/master/Making%20a%20DSL%20in%20Swift%20Workshop) | - |
 | July 30, 2019 | Code Golfing in Swift | Talk | [SwiftFest](https://swiftfest.io) | Boston, 🇺🇸 | [x](https://github.com/jasonzurita/talks/tree/master/Code%20Golfing%20in%20Swift) | [x](https://www.pluralsight.com/courses/swiftfest-boston-2019-session-19) |
