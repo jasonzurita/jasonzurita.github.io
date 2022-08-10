@@ -50,7 +50,7 @@ There are other ways, but you get the idea.
 ---
 
 # Summary
-There is a time to bring in a dependency, but blindly doing so can have a large impact down the line. For example, Firebase helped get [Driver](https://apps.apple.com/us/app/driver-dash-cam-navigation/id1415557883) in the early days, but we have spent nearly a year working to get rid of it 😅. Integrating a dependency is so [easy](https://www.youtube.com/watch?v=SxdOUGdseq4). Sometimes just a couple of lines of code and you are good to go. However, like most things, there are [tradeoffs](https://jasonzurita.com/the-hidden-cost-of-dependencies/). Because of this, we should be thoughtful about how we bring in our dependencies and take steps to protect ourselves from them.
+There is a time to bring in a dependency, but blindly doing so can have a large impact down the line. For example, Firebase helped [Driver](https://apps.apple.com/us/app/driver-dash-cam-navigation/id1415557883) in the early days, but we have spent nearly a year working to get rid of it 😅. Integrating a dependency is so [easy](https://www.youtube.com/watch?v=SxdOUGdseq4). Sometimes just a couple of lines of code and you are good to go. However, like most things, there are [tradeoffs](https://jasonzurita.com/the-hidden-cost-of-dependencies/). Because of this, we should be thoughtful about how we bring in our dependencies and take steps to protect ourselves from them.
 
 Also, huge shoutout to [R0ml](https://twitter.com/r0ml). I have learned a lot of these ideas from him.
 
