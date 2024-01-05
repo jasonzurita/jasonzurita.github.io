@@ -4,4 +4,4 @@ layout: page
 ---
 ![Profile Image](/assets/images/profile2.jpg)
 
-<p>I am a self taught software engineer with experience ranging from working as an Electrical Engineer designing safety systems for nuclear submarines to working on both personal and commercial consumer facing iOS & Android applications. Currently, I lead the Mobile Team (iOS & Android) at Driver Technologies. More broadly, I am an electronic hobbyist/enthusiast, education advocate, maker, hacker, tinkerer, athlete, and loving husband/father/dog owner that has an interest in learning anything and everything.</p>
+<p> Jason has 12+ years experience working in a wide variety of industries including leading full-stack mobile software development teams (Software Engineering) to designing electrical safety systems for nuclear submarines (Electrical Engineering). He is passionate about delivering useful, high quality, and simple user experiences by solving deep technical problems, and building diverse cross functional teams to solve those problems collectively. In addition, he enjoys to help mentor and teach other engineers through blogging and conference speaking.</p>
